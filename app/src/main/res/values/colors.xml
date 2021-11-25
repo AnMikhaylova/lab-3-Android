@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF5451</color>
+    <color name="colorPrimaryDark">#EF4438</color>
+    <color name="colorAccent">#C52216</color>
+    <color name="colorLightAccent">#C65850</color>
+    <color name="colorLighterAccent">#D1847E</color>
+    <color name="colorDivider">#000000</color>
+    <color name="colorGreen">#00bb00</color>
+    <color name="colorRed">#ee0000</color>
+    <color name="colorLightGrey">#ebebeb</color>
+    <color name="controlBackground">#ffffffff</color>
+
+</resources>
+
+
